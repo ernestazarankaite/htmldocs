@@ -1,1 +1,3 @@
-alert("Script loaded");
+function newFunction() {
+    alert("Script loaded");
+}
