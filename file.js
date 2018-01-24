@@ -1,5 +1,1 @@
-newFunction_1();
-
-function newFunction() {
-    alert("Script loaded");
-}
+alert('Script loaded');
